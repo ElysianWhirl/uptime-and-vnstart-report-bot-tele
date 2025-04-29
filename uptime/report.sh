@@ -2,8 +2,8 @@
 
 # Konfigurasi
 LOGFILE="/root/uptime/httping.log"
-TOKEN="7926855777:AAEiazKXKjjvZLBcYBca40NBsjmpxhCqNDw"
-CHAT_ID="6941388592"
+TOKEN="your_bot_token"
+CHAT_ID="your_chat_id"
 
 # Fungsi untuk ambil statistik berdasarkan rentang waktu
 get_stats() {
